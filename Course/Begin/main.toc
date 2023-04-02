@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{關於我}{3}{0}{1}
+\beamer@sectionintoc {2}{什麼是競賽程式}{5}{0}{2}
+\beamer@sectionintoc {3}{升學的新選擇}{12}{0}{3}
+\beamer@sectionintoc {4}{未來的規劃}{13}{0}{4}
+\beamer@sectionintoc {5}{總結}{14}{0}{5}
