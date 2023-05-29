@@ -1703,6 +1703,10 @@ OUTPUT main.xdv
 INPUT .\main.toc
 INPUT main.toc
 INPUT main.toc
+INPUT .\graph.png
+INPUT graph.png
+INPUT .\contest.png
+INPUT contest.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm

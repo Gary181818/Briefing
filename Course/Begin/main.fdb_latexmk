@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1680410873 "main.xdv" "main.pdf" "main" 1680410873 0
-  "main.xdv" 1680410872 181812 25ba4f9e6c9ab16c4ce620ea5973dc7c "xelatex"
+["xdvipdfmx"] 1680684432 "main.xdv" "main.pdf" "main" 1680684433 0
+  "main.xdv" 1680684431 532052 5aa62e277821974124c5179efcb576b7 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1680410868 "c:/Users/garyc/Documents/GitHub/Briefing/Course/Begin/main.tex" "main.xdv" "main" 1680410873 0
+["xelatex"] 1680684424 "c:/Users/garyc/Documents/GitHub/Briefing/Course/Begin/main.tex" "main.xdv" "main" 1680684433 0
   "C:/Users/garyc/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1679917674 36442714 1cd8d253e71c6acb509dab3a444e8065 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136743454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -230,12 +230,14 @@
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "c:/Users/garyc/Documents/GitHub/Briefing/Course/Begin/main.tex" 1680410864 3631 ac8d0ac79b8475c1cd8eb164eb3685cc ""
-  "main.aux" 1680410872 3864 5b3cb199619b07726eae171c7a0d2bb9 "xelatex"
-  "main.nav" 1680410872 1935 bc4afbc896dbd64ed7ca12beb57c0ac4 "xelatex"
-  "main.out" 1680410872 399 396a8784fc592e6558cee40bc5d925d3 "xelatex"
-  "main.tex" 1680410864 3631 ac8d0ac79b8475c1cd8eb164eb3685cc ""
-  "main.toc" 1680410872 252 835fe2b3b9a0dcd1df94c19c39b2e679 "xelatex"
+  "c:/Users/garyc/Documents/GitHub/Briefing/Course/Begin/main.tex" 1680684423 8439 2ebf09c964085b4cfe57a8966b587aec ""
+  "contest.png" 1680531001 141276 2a8ada4923459409bd9c45f7d38e2613 ""
+  "graph.png" 1680499563 12679 b4ed7b80296401ca9a4cd95e4edc2072 ""
+  "main.aux" 1680684431 5537 761f94bc6a8b4af2a6bccd722355c095 "xelatex"
+  "main.nav" 1680684431 2837 3b66e1e52061ef2139288bee2d94e648 "xelatex"
+  "main.out" 1680684431 375 a9e8e67c54707d7f1c8253f7461e6c28 "xelatex"
+  "main.tex" 1680684423 8439 2ebf09c964085b4cfe57a8966b587aec ""
+  "main.toc" 1680684431 243 1fe6545f5002556427f1a25ff7d7bac1 "xelatex"
   (generated)
   "main.aux"
   "main.log"

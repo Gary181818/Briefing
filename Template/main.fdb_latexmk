@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1680407313 "main.xdv" "main.pdf" "main" 1680407313 0
-  "main.xdv" 1680407312 16068 061765276b51ffff5ea73d8409071e7d "xelatex"
+["xdvipdfmx"] 1680442431 "main.xdv" "main.pdf" "main" 1680442431 0
+  "main.xdv" 1680442430 16068 969136aa7ca2a8f9fc739df0ca1deb70 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1680407309 "c:/Users/garyc/Documents/GitHub/Briefing/Template/main.tex" "main.xdv" "main" 1680407313 0
+["xelatex"] 1680442425 "c:/Users/garyc/Documents/GitHub/Briefing/Template/main.tex" "main.xdv" "main" 1680442431 0
   "C:/Users/garyc/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1679917674 36442714 1cd8d253e71c6acb509dab3a444e8065 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136743454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -104,7 +104,7 @@
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1669844196 8464 63bf71cc1214ffdd38288da73a7ca182 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd" 1669844196 2430 8418b3f1835e588625becbcac4dbce56 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/base/tuenc.def" 1669844196 26445 9ed4a9401f29cbb58ef6909cd5aec01f ""
-  "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamer.cls" 1676882256 12413 a9e1a835c278c473178ea87bd8b41b31 ""
+  "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamer.cls" 1680409020 12413 a9e1a835c278c473178ea87bd8b41b31 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamerbaseauxtemplates.sty" 1676882256 24398 87d073e6906cb38fa466e1f37d377729 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamerbaseboxes.sty" 1676882256 7355 9472c0e2702617cc8e4df0332464b036 ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamerbasecolor.sty" 1676882256 12589 c2e8a707f95e114b40e2be10f5aefffa ""
@@ -230,11 +230,11 @@
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/garyc/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "c:/Users/garyc/Documents/GitHub/Briefing/Template/main.tex" 1680407308 2578 aa901795525fcf7d736780fe1533f513 ""
-  "main.aux" 1680407312 966 1260414a6683adab53ad443f259955f3 "xelatex"
-  "main.nav" 1680407312 307 9e520c26371a1250ff9fc1fe87f9c655 "xelatex"
-  "main.out" 1680407312 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "main.tex" 1680407308 2578 aa901795525fcf7d736780fe1533f513 ""
+  "c:/Users/garyc/Documents/GitHub/Briefing/Template/main.tex" 1680442424 2578 aa901795525fcf7d736780fe1533f513 ""
+  "main.aux" 1680442430 966 1260414a6683adab53ad443f259955f3 "xelatex"
+  "main.nav" 1680442430 307 9e520c26371a1250ff9fc1fe87f9c655 "xelatex"
+  "main.out" 1680442430 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.tex" 1680442424 2578 aa901795525fcf7d736780fe1533f513 ""
   (generated)
   "main.aux"
   "main.log"
